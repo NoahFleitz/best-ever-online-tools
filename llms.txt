@@ -1,6 +1,6 @@
 # Best Ever Online Tools
 
-> Free video, image, PDF and text tools that run in your browser. No uploads, no sign-up, no limits. 19 tools. Every tool runs client-side in the browser: files are never uploaded, there is no sign-up, no watermark and no usage limit.
+> Free video, image, PDF and text tools that run in your browser. No uploads, no sign-up, no limits. 19 tools. Every tool runs client-side in the browser: files are never uploaded, there is no sign-up, no watermark and no usage limit. Supported by ads.
 
 Key facts:
 - Price: free, unlimited

@@ -1,1 +1,1 @@
-# Paste the line AdSense gives you here (or set ADSENSE_CLIENT in scripts/build.py and rebuild).
+google.com, pub-3372812858576027, DIRECT, f08c47fec0942fa0
