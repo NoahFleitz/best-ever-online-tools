@@ -1,0 +1,44 @@
+# Best Ever Online Tools
+
+> Free video, image, PDF and text tools that run in your browser. No uploads, no sign-up, no limits. 19 tools. Every tool runs client-side in the browser: files are never uploaded, there is no sign-up, no watermark and no usage limit.
+
+Key facts:
+- Price: free, unlimited
+- Privacy: all processing happens on the user's device (WebCodecs, Canvas, pdf.js, pdf-lib); nothing is uploaded
+- Platforms: any modern browser on Windows, macOS, Linux, Android, iOS
+
+## Video tools
+
+- [Video to Short](https://besteveronlinetools.com/video-to-short.html): Turn any landscape video into a vertical 1080×1920 video for YouTube Shorts, TikTok and Instagram Reels. Blur fill or crop, true 60 fps, free, no upload. Input: MP4, MOV, WebM. Output: MP4, 1080×1920 (9:16), 30 or 60 fps.
+- [Trim Video](https://besteveronlinetools.com/trim-video.html): Cut the part you want from any video and save it as MP4. Frame-accurate, keeps original resolution and frame rate. Free, no watermark, runs in your browser. Input: MP4, MOV, WebM. Output: MP4 at original size and frame rate.
+- [Compress Video](https://besteveronlinetools.com/compress-video.html): Shrink a video to a target file size for Discord, email or WhatsApp. Pick 10 MB, 25 MB, 50 MB or any size and resolution. Free, no upload, no watermark. Input: MP4, MOV, WebM. Output: MP4 at the size you choose.
+- [Video to GIF](https://besteveronlinetools.com/video-to-gif.html): Turn a video clip into an animated GIF. Choose start and end, size and frame rate. Free, no watermark, runs in your browser with no upload. Input: MP4, MOV, WebM. Output: Animated GIF.
+- [Extract Audio](https://besteveronlinetools.com/extract-audio.html): Pull the sound out of any video and save it as MP3, WAV or M4A. Trim to just the part you need. Free, unlimited, runs in your browser. Input: MP4, MOV, WebM, MP3, WAV. Output: MP3, M4A or WAV.
+
+## Image tools
+
+- [Compress Image](https://besteveronlinetools.com/compress-image.html): Make photos and images smaller without visible quality loss. Compress many JPG, PNG and WebP files at once, free, with no upload and no limits. Input: JPG, PNG, WebP, GIF. Output: JPG, PNG or WebP.
+- [Resize Image](https://besteveronlinetools.com/resize-image.html): Resize JPG, PNG and WebP images by percentage or exact pixels. Keep the aspect ratio, batch resize many images, download as ZIP. Free, no upload. Input: JPG, PNG, WebP, GIF. Output: Same format as the original.
+- [Convert Image](https://besteveronlinetools.com/convert-image.html): Convert images between JPG, PNG and WebP. Also turns GIF, BMP, SVG and AVIF into JPG or PNG. Batch convert, free, no upload, no limits. Input: JPG, PNG, WebP, GIF, BMP, SVG, AVIF. Output: JPG, PNG or WebP.
+- [Crop Image](https://besteveronlinetools.com/crop-image.html): Crop photos to any size or to 1:1, 4:3, 16:9, 9:16 and 4:5. Drag to choose the area and download instantly. Free, no upload, no watermark. Input: JPG, PNG, WebP, GIF. Output: JPG or PNG.
+- [Remove Metadata](https://besteveronlinetools.com/remove-image-metadata.html): See and remove hidden EXIF metadata like GPS location, camera model and date from JPG, PNG and WebP photos. Lossless for JPG and PNG. Free, no upload. Input: JPG, PNG, WebP. Output: Same format, without EXIF/GPS.
+
+## PDF tools
+
+- [Merge PDF](https://besteveronlinetools.com/merge-pdf.html): Combine multiple PDF files into one document. Drag to reorder, then download. Free, no file size limit, no watermark, nothing uploaded. Input: PDF. Output: One combined PDF.
+- [Split PDF](https://besteveronlinetools.com/split-pdf.html): Split a PDF into single pages, custom page ranges, or pick pages to extract into a new PDF. Free, private, nothing uploaded. Input: PDF. Output: PDF files (ZIP for several).
+- [Images to PDF](https://besteveronlinetools.com/images-to-pdf.html): Turn JPG, PNG and other images into a single PDF, one image per page. Choose A4, Letter or fit to image. Free, no watermark, nothing uploaded. Input: JPG, PNG, WebP. Output: PDF (fit, A4 or Letter).
+- [PDF to Images](https://besteveronlinetools.com/pdf-to-images.html): Save every page of a PDF as a high-quality PNG or JPG image. Choose resolution and pages, download individually or as ZIP. Free and private. Input: PDF. Output: PNG or JPG, up to 216 dpi.
+- [Rotate PDF](https://besteveronlinetools.com/rotate-pdf.html): Rotate individual PDF pages or the whole document by 90°, 180° or 270° and save it. Free, no watermark, nothing uploaded. Input: PDF. Output: PDF with pages rotated.
+
+## Text & color tools
+
+- [QR Code Generator](https://besteveronlinetools.com/qr-code-generator.html): Make QR codes for links, Wi-Fi networks, text and email. Custom colors and size, download PNG or SVG. Free forever, no sign-up, codes never expire. Input: Link, text, Wi-Fi, email. Output: PNG or SVG.
+- [Word Counter](https://besteveronlinetools.com/word-counter.html): Count words, characters (with and without spaces), sentences and paragraphs as you type. Also shows reading time, speaking time and top keywords. Input: Any text. Output: Live counts.
+- [Case Converter](https://besteveronlinetools.com/case-converter.html): Convert text to UPPERCASE, lowercase, Title Case, Sentence case, camelCase, snake_case, kebab-case and more. Paste, click, copy. Free. Input: Any text. Output: Converted text, copy or .txt.
+- [Color Picker](https://besteveronlinetools.com/color-picker.html): Pick a color and get HEX, RGB, HSL, HSV and CMYK codes. Grab colors from your screen or an image, extract a palette and check contrast. Free. Input: Color or image. Output: HEX, RGB, HSL, HSV, CMYK.
+
+## Site
+
+- [About](https://besteveronlinetools.com/about.html)
+- [Privacy policy](https://besteveronlinetools.com/privacy.html)

@@ -1,0 +1,133 @@
+# Best Ever Online Tools
+
+> Free video, image, PDF and text tools that run in your browser. No uploads, no sign-up, no limits. 19 tools. Every tool runs client-side in the browser: files are never uploaded, there is no sign-up, no watermark and no usage limit.
+
+Key facts:
+- Price: free, unlimited
+- Privacy: all processing happens on the user's device (WebCodecs, Canvas, pdf.js, pdf-lib); nothing is uploaded
+- Platforms: any modern browser on Windows, macOS, Linux, Android, iOS
+
+## Video tools
+
+- [Video to Short](https://besteveronlinetools.com/video-to-short.html): Turn any landscape video into a vertical 1080×1920 video for YouTube Shorts, TikTok and Instagram Reels. Blur fill or crop, true 60 fps, free, no upload. Input: MP4, MOV, WebM. Output: MP4, 1080×1920 (9:16), 30 or 60 fps.
+  - How to: (1) Choose or drop your video. It loads in your browser and is never uploaded. (2) Pick a framing: Blur fill keeps the whole shot with a blurred background, Crop to fill fills the screen, Black bars keeps everything with bars above and below. (3) Drag Position and Zoom to frame the subject. Scrub the preview to check different moments. (4) Set the start and end time. Shorts can be up to 3 minutes, but shorter clips usually perform better. (5) Click Convert to vertical and download your MP4.
+  - Q: Is it really free with no limits? A: Yes. The conversion runs on your own computer, so there are no server costs to pass on. Convert as many videos as you like.
+  - Q: Is my video uploaded anywhere? A: No. Your browser reads the file directly and builds the new video on your device. Nothing is sent to a server.
+  - Q: Why does conversion take longer than the clip? A: Every frame is rendered one at a time at exactly 30 (or 60) frames per second. That keeps motion perfectly even, at the cost of some speed. Faster computers finish sooner.
+  - Q: Should I use 60 fps or High quality? A: The defaults (30 fps, Good) look great on phones and finish fastest. 60 fps only adds smoothness if your original was filmed at 60 fps, and it doubles the frames to render. High quality gives a sharper, larger file and also takes longer.
+  - Q: What format do I get? A: An MP4 file (H.264 video with AAC audio in most browsers), which YouTube, TikTok and Instagram all accept.
+  - Q: Which browsers work? A: Recent versions of Chrome, Edge, Firefox and Safari. Chrome and Edge are usually fastest.
+- [Trim Video](https://besteveronlinetools.com/trim-video.html): Cut the part you want from any video and save it as MP4. Frame-accurate, keeps original resolution and frame rate. Free, no watermark, runs in your browser. Input: MP4, MOV, WebM. Output: MP4 at original size and frame rate.
+  - How to: (1) Choose or drop your video. (2) Play it and press Now next to Start and End at the moments you want, or type the times in seconds. (3) Click Preview clip to watch exactly the part you'll get, before anything is processed. (4) Pick Same as original for full quality or Smaller file to save space. (5) Click Trim video and download the MP4.
+  - Q: Does trimming lower the quality? A: The clip is re-encoded at the original resolution and frame rate with a high bitrate, so it looks the same to the eye. Choose Smaller file if you'd rather save space.
+  - Q: Is there a length or size limit? A: No hard limit. Very long or 4K videos take longer and use more memory, so for huge files trim a shorter section.
+  - Q: Is my video uploaded? A: No. Everything happens inside your browser on your own device.
+  - Q: Why is the output MP4 even if I uploaded a MOV or WebM? A: MP4 plays almost everywhere, so it's the safest format to download.
+- [Compress Video](https://besteveronlinetools.com/compress-video.html): Shrink a video to a target file size for Discord, email or WhatsApp. Pick 10 MB, 25 MB, 50 MB or any size and resolution. Free, no upload, no watermark. Input: MP4, MOV, WebM. Output: MP4 at the size you choose.
+  - How to: (1) Choose or drop your video. (2) Pick a target size. 10 MB fits Discord's free limit. (3) Lower the resolution if the estimate says quality will be low. 720p is a good balance for phones. (4) Optionally trim the video. Shorter clips look better at the same size. (5) Click Compress video and download the MP4.
+  - Q: Will the file be exactly the size I picked? A: It aims a little under your target. Very simple or very busy footage can land slightly off, so pick a size with some room if the limit is strict.
+  - Q: Why does my compressed video look blurry? A: The target size is small for the length and resolution. Lower the resolution, trim the clip, or choose a bigger size.
+  - Q: How do I send a video on Discord without Nitro? A: Compress it to 10 MB here, then upload the MP4 to Discord.
+  - Q: Is my video uploaded? A: No. The compression runs entirely in your browser.
+- [Video to GIF](https://besteveronlinetools.com/video-to-gif.html): Turn a video clip into an animated GIF. Choose start and end, size and frame rate. Free, no watermark, runs in your browser with no upload. Input: MP4, MOV, WebM. Output: Animated GIF.
+  - How to: (1) Choose or drop your video. (2) Mark the start and end. Keep it short: GIFs get big fast. (3) Pick a width and frame rate. 480 px at 15 fps works well for chats and social posts. (4) Click Make GIF and download it.
+  - Q: How long can my GIF be? A: There's no hard limit, but GIFs are much larger than videos. Under 10 seconds at 480 px is a good rule of thumb.
+  - Q: How do I make the GIF smaller? A: Use a lower width, a lower frame rate, or a shorter clip.
+  - Q: Is there a watermark? A: No.
+  - Q: Is my video uploaded? A: No. The GIF is made in your browser on your device.
+- [Extract Audio](https://besteveronlinetools.com/extract-audio.html): Pull the sound out of any video and save it as MP3, WAV or M4A. Trim to just the part you need. Free, unlimited, runs in your browser. Input: MP4, MOV, WebM, MP3, WAV. Output: MP3, M4A or WAV.
+  - How to: (1) Choose or drop a video (or an audio file you want to convert). (2) Pick a format: MP3 plays everywhere, M4A is smaller at the same quality, WAV is uncompressed for editing. (3) Optionally set a start and end to keep only part of it. (4) Click Extract audio and download the file.
+  - Q: Which format should I pick? A: MP3 at 192 kbps is the safe choice for music and podcasts. Pick WAV if you're going to edit the audio further.
+  - Q: Can I convert an audio file too? A: Yes. Drop an MP3, WAV, M4A or other audio file and save it in a different format.
+  - Q: The tool says there's no audio. Why? A: The video has no sound track, or it uses an audio format your browser can't read.
+  - Q: Is my file uploaded? A: No. Everything runs in your browser.
+
+## Image tools
+
+- [Compress Image](https://besteveronlinetools.com/compress-image.html): Make photos and images smaller without visible quality loss. Compress many JPG, PNG and WebP files at once, free, with no upload and no limits. Input: JPG, PNG, WebP, GIF. Output: JPG, PNG or WebP.
+  - How to: (1) Drop one or more images (JPG, PNG, WebP or GIF). (2) Set the quality. Lower numbers give smaller files. (3) Optionally save as WebP for the smallest files, or cap the size for web use. (4) Click Compress images, then download each file or all of them as a ZIP.
+  - Q: How much smaller will my images get? A: Photos usually shrink 40–80% at quality 75 with no difference you'd notice. Already-optimized images may not shrink, and in that case the original is kept.
+  - Q: What's the best format for small files? A: WebP is typically 25–35% smaller than JPG at the same quality and works in all modern browsers and apps.
+  - Q: Does it remove photo metadata? A: Yes. Re-saving drops EXIF data like GPS location. Use the Remove Metadata tool if you want to strip it without re-compressing.
+  - Q: Is it private? A: Yes. Your images are processed in your browser and never uploaded.
+- [Resize Image](https://besteveronlinetools.com/resize-image.html): Resize JPG, PNG and WebP images by percentage or exact pixels. Keep the aspect ratio, batch resize many images, download as ZIP. Free, no upload. Input: JPG, PNG, WebP, GIF. Output: Same format as the original.
+  - How to: (1) Drop one or more images. (2) Choose Percentage (for example 50% for half size) or Pixels. (3) With pixels, enter a width, a height, or both. With aspect ratio on, images fit inside the box without stretching. (4) Click Resize images and download.
+  - Q: Will resizing make my image blurry? A: Making images smaller keeps them sharp. Making them much larger than the original can't add detail, so they'll look soft.
+  - Q: Can I resize many images to the same width? A: Yes. Choose Pixels, enter only a width, and every image is scaled to that width with its own height.
+  - Q: What format do I get back? A: The same type you started with: PNG stays PNG, JPG stays JPG, WebP stays WebP.
+  - Q: Is it private? A: Yes. Your images are processed in your browser and never uploaded.
+- [Convert Image](https://besteveronlinetools.com/convert-image.html): Convert images between JPG, PNG and WebP. Also turns GIF, BMP, SVG and AVIF into JPG or PNG. Batch convert, free, no upload, no limits. Input: JPG, PNG, WebP, GIF, BMP, SVG, AVIF. Output: JPG, PNG or WebP.
+  - How to: (1) Drop the images you want to convert. (2) Pick the format: JPG for photos, PNG for graphics and transparency, WebP for the smallest files. (3) Click Convert images and download them one by one or as a ZIP.
+  - Q: How do I convert WebP to JPG? A: Drop the WebP files, choose JPG and click Convert images.
+  - Q: Can I convert HEIC iPhone photos? A: Only in browsers that can open HEIC (currently Safari). Elsewhere, set your iPhone camera to 'Most Compatible' or share the photo as JPG.
+  - Q: Does an animated GIF stay animated? A: No. Only the first frame is converted.
+  - Q: Is it private? A: Yes. Your images are processed in your browser and never uploaded.
+- [Crop Image](https://besteveronlinetools.com/crop-image.html): Crop photos to any size or to 1:1, 4:3, 16:9, 9:16 and 4:5. Drag to choose the area and download instantly. Free, no upload, no watermark. Input: JPG, PNG, WebP, GIF. Output: JPG or PNG.
+  - How to: (1) Choose an image. (2) Pick a shape, or leave it on Free. (3) Drag the box to move it and drag its corners to resize it. Scroll or pinch to zoom in for precise edges. Arrow keys nudge the box by a pixel (Shift for 10). (4) Click Crop image and download the result.
+  - Q: What size should a YouTube thumbnail or Instagram post be? A: Use 16:9 for YouTube thumbnails, 1:1 or 4:5 for Instagram feed posts, and 9:16 for Stories, Reels and TikTok.
+  - Q: Does cropping lower quality? A: The cropped area keeps its original pixels. JPGs are re-saved at high quality.
+  - Q: Is it private? A: Yes. Your images are processed in your browser and never uploaded.
+- [Remove Metadata](https://besteveronlinetools.com/remove-image-metadata.html): See and remove hidden EXIF metadata like GPS location, camera model and date from JPG, PNG and WebP photos. Lossless for JPG and PNG. Free, no upload. Input: JPG, PNG, WebP. Output: Same format, without EXIF/GPS.
+  - How to: (1) Drop the photos you want to clean. (2) Check what each one contains. GPS location is the one to watch for. (3) Click Remove metadata and download the clean copies.
+  - Q: Does this reduce quality? A: No for JPG and PNG: the image data is copied untouched and only the metadata is removed. Photos with a rotation flag are re-saved at high quality so they stay the right way up.
+  - Q: Do social networks remove metadata already? A: Most big platforms strip it from what others see, but email, messaging apps, cloud links and forums often don't.
+  - Q: What exactly is removed? A: EXIF (camera, settings, date, GPS), XMP, IPTC, comments, and PNG text chunks. The color profile is kept so colors stay accurate.
+  - Q: Is it private? A: Yes. Your images are processed in your browser and never uploaded.
+
+## PDF tools
+
+- [Merge PDF](https://besteveronlinetools.com/merge-pdf.html): Combine multiple PDF files into one document. Drag to reorder, then download. Free, no file size limit, no watermark, nothing uploaded. Input: PDF. Output: One combined PDF.
+  - How to: (1) Choose two or more PDF files. (2) Drag the rows, or use the arrows, to set the order. (3) Click Merge PDFs and download the combined file.
+  - Q: Is there a limit on files or size? A: No fixed limit. Very large PDFs (hundreds of MB) depend on your computer's memory.
+  - Q: Do links and bookmarks survive? A: Page content, text and links are kept. Bookmarks (the outline) from the original files are not carried over.
+  - Q: Can I merge password-protected PDFs? A: Not yet. Remove the password first.
+  - Q: Is my PDF uploaded? A: No. The files are combined in your browser.
+- [Split PDF](https://besteveronlinetools.com/split-pdf.html): Split a PDF into single pages, custom page ranges, or pick pages to extract into a new PDF. Free, private, nothing uploaded. Input: PDF. Output: PDF files (ZIP for several).
+  - How to: (1) Choose a PDF. (2) Pick Every page for one file per page, By ranges to type ranges like 1-3, 5, 8-10, or Pick pages to click the pages you want. (3) Click Split PDF. Several files come as a ZIP.
+  - Q: How do I extract just one page? A: Choose Pick pages, click the page, then Split PDF. Or use By ranges and type the page number.
+  - Q: What does '8-' mean in a range? A: Page 8 to the end. '-3' means pages 1 to 3.
+  - Q: Is my PDF uploaded? A: No. Splitting happens in your browser.
+- [Images to PDF](https://besteveronlinetools.com/images-to-pdf.html): Turn JPG, PNG and other images into a single PDF, one image per page. Choose A4, Letter or fit to image. Free, no watermark, nothing uploaded. Input: JPG, PNG, WebP. Output: PDF (fit, A4 or Letter).
+  - How to: (1) Choose your images. (2) Drag them into the right order. (3) Pick a page size. Fit image makes each page exactly the size of its image. (4) Click Create PDF and download.
+  - Q: Does it reduce image quality? A: JPG and PNG images are placed in the PDF as they are, without re-compressing.
+  - Q: Can I scan documents with my phone and make a PDF? A: Yes. Take photos of each page, then add them here in order and choose A4 or Letter.
+  - Q: Is it private? A: Yes. The PDF is built in your browser.
+- [PDF to Images](https://besteveronlinetools.com/pdf-to-images.html): Save every page of a PDF as a high-quality PNG or JPG image. Choose resolution and pages, download individually or as ZIP. Free and private. Input: PDF. Output: PNG or JPG, up to 216 dpi.
+  - How to: (1) Choose a PDF. (2) Pick PNG (sharpest for text) or JPG (smaller files), and a resolution. (3) Leave Pages empty for all of them, or type ranges like 1-3, 7. (4) Click Convert to images and download them one by one or as a ZIP.
+  - Q: Which resolution should I use? A: 144 dpi looks sharp on screens. Use 216 dpi for printing or zooming in on small text.
+  - Q: PNG or JPG? A: PNG keeps text crisp. JPG makes smaller files and suits pages that are mostly photos.
+  - Q: Is my PDF uploaded? A: No. Pages are rendered in your browser.
+- [Rotate PDF](https://besteveronlinetools.com/rotate-pdf.html): Rotate individual PDF pages or the whole document by 90°, 180° or 270° and save it. Free, no watermark, nothing uploaded. Input: PDF. Output: PDF with pages rotated.
+  - How to: (1) Choose a PDF. (2) Click a page to rotate it 90° clockwise. Click again to keep turning. (3) Use Rotate all to turn every page at once. (4) Click Save rotated PDF and download.
+  - Q: Is the rotation permanent? A: Yes. The saved PDF opens with the pages turned in every viewer.
+  - Q: Does it change the content or quality? A: No. Only each page's rotation setting changes.
+  - Q: Is my PDF uploaded? A: No. It's all done in your browser.
+
+## Text & color tools
+
+- [QR Code Generator](https://besteveronlinetools.com/qr-code-generator.html): Make QR codes for links, Wi-Fi networks, text and email. Custom colors and size, download PNG or SVG. Free forever, no sign-up, codes never expire. Input: Link, text, Wi-Fi, email. Output: PNG or SVG.
+  - How to: (1) Choose what the code should do: open a link, show text, join Wi-Fi or start an email. (2) Fill in the details. The preview updates as you type. (3) Adjust colors and size if you like. Keep dark on light for reliable scanning. (4) Download PNG for screens and documents, or SVG for print at any size.
+  - Q: Do these QR codes expire? A: No. The information is stored in the code itself, not on a server, so it works forever.
+  - Q: Can I track scans? A: No. These are static codes with no tracking. That also means no one tracks the people who scan them.
+  - Q: What does error correction do? A: Higher levels (Q, H) let the code scan even if part of it is damaged or covered, at the cost of a denser pattern.
+  - Q: How does the Wi-Fi QR code work? A: Phones that scan it offer to join the network automatically, without typing the password.
+- [Word Counter](https://besteveronlinetools.com/word-counter.html): Count words, characters (with and without spaces), sentences and paragraphs as you type. Also shows reading time, speaking time and top keywords. Input: Any text. Output: Live counts.
+  - How to: (1) Type or paste your text into the box. (2) The counts update instantly as you type. (3) Reading time assumes 238 words per minute, and speaking time assumes 150.
+  - Q: Does it save my text? A: Your text is kept only in this browser so it's still there if you reload. It's never sent anywhere.
+  - Q: How are words counted? A: Any run of letters or numbers counts as a word, including words with apostrophes and hyphens such as don't and well-known.
+  - Q: What's a good length for a tweet, meta description or essay? A: X/Twitter allows 280 characters, meta descriptions show about 155–160 characters, and a typical college essay runs 500–650 words.
+- [Case Converter](https://besteveronlinetools.com/case-converter.html): Convert text to UPPERCASE, lowercase, Title Case, Sentence case, camelCase, snake_case, kebab-case and more. Paste, click, copy. Free. Input: Any text. Output: Converted text, copy or .txt.
+  - How to: (1) Paste or type your text. (2) Click the case you want. You can switch between cases as often as you like: each one is made from your original text, so nothing gets mangled. (3) Click ↺ Original to get your text back exactly as you entered it. (4) Click Copy or download it as a .txt file.
+  - Q: How does Title Case work? A: Major words are capitalized and short words like 'and', 'of' and 'the' stay lowercase unless they start the title.
+  - Q: What are camelCase and snake_case for? A: They're naming styles in programming: camelCase joins words with capitals (myVariableName), snake_case joins them with underscores (my_variable_name).
+  - Q: Is my text sent anywhere? A: No. Everything happens in your browser.
+- [Color Picker](https://besteveronlinetools.com/color-picker.html): Pick a color and get HEX, RGB, HSL, HSV and CMYK codes. Grab colors from your screen or an image, extract a palette and check contrast. Free. Input: Color or image. Output: HEX, RGB, HSL, HSV, CMYK.
+  - How to: (1) Pick a color with the color box, type a HEX code, or click Pick from screen (Chrome and Edge). (2) Or drop an image and click on it to grab any color. Zoom in to pick a single exact pixel. The main colors of the image appear as a palette. (3) Click Copy next to the format you need.
+  - Q: What do AA and AAA mean in the contrast check? A: They're accessibility levels from the WCAG guidelines. AA needs a contrast of at least 4.5:1 for normal text, AAA needs 7:1.
+  - Q: Why is the CMYK value different from my print software? A: This is a simple conversion without a printer color profile. For exact print colors, use your printer's profile.
+  - Q: Is my image uploaded? A: No. Colors are read from the image in your browser.
+
+## Site
+
+- [About](https://besteveronlinetools.com/about.html)
+- [Privacy policy](https://besteveronlinetools.com/privacy.html)

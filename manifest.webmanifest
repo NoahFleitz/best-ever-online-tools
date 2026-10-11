@@ -1,0 +1,46 @@
+{
+ "name": "Best Ever Online Tools",
+ "short_name": "Best Ever Tools",
+ "description": "Free video, image, PDF and text tools that run in your browser. No uploads, no sign-up, no limits.",
+ "start_url": "./index.html",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#f5f5f2",
+ "theme_color": "#16171b",
+ "icons": [
+  {
+   "src": "assets/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "assets/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "assets/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ],
+ "shortcuts": [
+  {
+   "name": "Video to Short",
+   "url": "./video-to-short.html"
+  },
+  {
+   "name": "Trim Video",
+   "url": "./trim-video.html"
+  },
+  {
+   "name": "Compress Video",
+   "url": "./compress-video.html"
+  },
+  {
+   "name": "Video to GIF",
+   "url": "./video-to-gif.html"
+  }
+ ]
+}
